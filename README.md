@@ -4,15 +4,14 @@ This repository contains the projects I completed as part of the **Udacity C++ N
 
 ---
 
-## 📂 Projects  
+## Projects  
 
 ### 1. Route Planning Project  
 - **Description:** Implemented a route planner using the A* search algorithm to find the shortest path on real-world OpenStreetMap data.  
 - **Key Concepts:**  
   - Graph representation and traversal  
   - A* search algorithm  
-  - Smart pointers (`unique_ptr`, `shared_ptr`)  
-- **Skills:** Pathfinding, memory management, C++11 features  
+  - **Skills:** Pathfinding, memory management, C++11 features  
 
 ---
 
