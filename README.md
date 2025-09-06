@@ -53,15 +53,4 @@ This repository contains the projects I completed as part of the **Udacity C++ N
   - Smart pointers and RAII  
   - Concurrency features (threading, async tasks, mutexes)  
 - **Skills:** Game development, system design, performance optimization  
-
----
-
-## 🛠️ Technologies & Tools  
-- **Language:** C++11/14/17  
-- **Libraries:** SDL2, Threads, STL  
-- **Environment:** Linux (Ubuntu), CMake, g++  
-
---- 
-- Practiced **concurrency** and multithreading.  
-- Built complete applications using **data structures, algorithms, and system programming**.  
-- Strengthened debugging, testing, and performance optimization skills.  
+  
